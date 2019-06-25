@@ -1,0 +1,23 @@
+{
+  "name": "higher-order-componentshoc-in-react",
+  "version": "0.0.77",
+  "description": "A demo of different HOC patterns in React",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/m4o08zyvzx",
+  "main": "index.js",
+  "dependencies": {
+    "react-router-dom": "4.2.2",
+    "react-router": "4.2.0",
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

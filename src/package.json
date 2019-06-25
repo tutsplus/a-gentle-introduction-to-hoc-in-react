@@ -1,0 +1,14 @@
+{
+  "name": "Higher Order Components(HOC) in React",
+  "version": "1.0.0",
+  "description": "A demo of different HOC patterns in React",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/m4o08zyvzx",
+  "main": "index.js",
+  "dependencies": {
+    "react-router-dom": "4.2.2",
+    "react-router": "4.2.0",
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  }
+}
